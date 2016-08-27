@@ -1,16 +1,16 @@
-typography_spectrum: 0.44100988237187266
+layout_spectrum: 0.2214880120009184
+typography_spectrum: 0.12339804018847644
 color:
-  brandStrength: 0.4626099495217204
-  lightness: 0.8120934567414224
-  saturation: 0.0741299232468009
-  rhythmicContrast: 0.7367967148311436
+  brandStrength: 0.07117620063945651
+  lightness: 0.17482374282553792
+  saturation: 0.02321762777864933
+  rhythmicContrast: 0.49949093675240874
   brandColors:
     - '#000000'
     - '#333333'
     - '#FF358B'
     - '#01B0F0'
     - '#AEEE00'
-layout_spectrum: 0.2214880120009184
 name: Ambassadors Digital
 title: AMBASSADORS DIGITAL
 description: Digital Project Management
