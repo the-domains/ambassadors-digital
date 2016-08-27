@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Ambassadors Digital]]></title>
-        <description><![CDATA[Ambassadors Digital]]></description>
+        <title><![CDATA[AMBASSADORS DIGITAL]]></title>
+        <description><![CDATA[AMBASSADORS DIGITAL]]></description>
         <link>https://thegrid.ai/ambassadors-digital/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 26 Aug 2016 22:15:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Aug 2016 22:29:34 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ambassadors-digital/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Most Human Human | Brian Christian]]></title>
+            <description><![CDATA[<article><h1>The Most Human Human | Brian Christian</h1><p>By mimicking our conversation and behavior, computers have recently come within a single vote of passing the Turing test, the widely accepted threshold at which a machine can be said to be thinking or intelligent.</p><img src="http://www.brian-christian.com/The-Most-Human-Human-Paperback-Front-Cover.jpg"></article>]]></description>
+            <link>http://www.brian-christian.com/the-most-human-human/</link>
+            <guid isPermaLink="false">6b086ba1-3be1-4dce-8597-3dee5b0d974e</guid>
+            <pubDate>Fri, 26 Aug 2016 22:29:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Coolest Tech at SXSW Interactive This Year]]></title>
             <description><![CDATA[<article><h1>The Coolest Tech at SXSW Interactive This Year</h1><p>Everything from lifelike humanoids to VR-recording apps at SXSW Interactive 2016.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/914b8f2c193ba23977d43dd2927ac45c36498fd3.jpg"></article>]]></description>
